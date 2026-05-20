@@ -1,0 +1,25 @@
+Gauss Jacobi Iterative Method
+Size of matrix (N): 3
+Enter the elements of 3x3 matrix A: 
+Row 1: 5 -1 1
+Row 2: 2 8 -1 
+Row 3: -1 1 4
+Enter the 3 elements of vector B:
+10 11 3
+
+Starting Gauss Jacobi
+Iteration 1: [   2.000,    1.375,    0.750]
+Iteration 2: [   2.125,    0.969,    0.906]
+Iteration 3: [   2.013,    0.957,    1.039]
+Iteration 4: [   1.984,    1.002,    1.014]
+Iteration 5: [   1.998,    1.006,    0.995]
+Iteration 6: [   2.002,    1.000,    0.998]
+Iteration 7: [   2.000,    0.999,    1.001]
+Iteration 8: [   2.000,    1.000,    1.000]
+
+Converged in 8 iterations
+
+Final Solution:
+x1 = 2.000
+x2 = 1.000
+x3 = 1.000
